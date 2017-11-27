@@ -1,3 +1,5 @@
+#This code is modified from https://github.com/dennybritz/cnn-text-classification-tf
+
 import sys
 sys.path.append('/scratch/cluster/yezhang/influence-release')
 import tensorflow as tf

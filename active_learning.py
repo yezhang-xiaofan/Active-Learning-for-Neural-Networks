@@ -1,5 +1,5 @@
 #! /usr/bin/env python
-
+#This code is modified from https://github.com/dennybritz/cnn-text-classification-tf
 import tensorflow as tf
 import numpy as np
 import os

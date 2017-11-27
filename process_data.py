@@ -1,3 +1,4 @@
+#this code is modified from https://github.com/yoonkim/CNN_sentence
 import numpy as np
 import cPickle
 from collections import defaultdict
