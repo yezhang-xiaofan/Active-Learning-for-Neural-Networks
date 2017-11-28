@@ -5,4 +5,4 @@ First run "python process_data.py path/to/pre-trained-embedding" to generate the
 
 Then run "python active_learning.py --AL_method=active-learning-method", where "active-learning-method" should be one of "random", "entropy" or "EGL".
 
-
+![Learning Curve](https://github.com/yezhang-xiaofan/Active-Learning-for-Neural-Networks/blob/master/results.png)
